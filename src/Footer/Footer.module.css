@@ -1,0 +1,30 @@
+.night {
+    background-color: #303D4E;
+}
+
+div div div .font {
+    font-size: 24px !important;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.green {
+    color: #1abc9c;
+    transition: 0.25s color;
+}
+
+.green:hover {
+    color: #15967d;
+}
+
+.border {
+    border: 2px solid white;
+    line-height: 50px !important;
+    width: 56px;
+    height: 56px;
+    transition: 0.3s color, 0.3s background-color;
+}
+.border:hover {
+    color: black;
+    background-color: white;
+}

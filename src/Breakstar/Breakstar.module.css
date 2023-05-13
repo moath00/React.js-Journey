@@ -1,0 +1,26 @@
+.whiteBefore, .darkBefore {
+    height: 4px;
+    width: 110px;
+    background-color: #fff;
+    border-radius: 2px;
+    margin-bottom: 13px;
+    margin-right:15px;
+}
+.star {
+    color: #fff !important;
+    font-size: 32px;
+}
+.whiteAfter , .darkAfter{
+    height: 4px;
+    width: 110px;
+    background-color: #fff;
+    border-radius: 2px;
+    margin-bottom: 13px;
+    margin-left:15px;
+}
+.darkAfter,.darkBefore {
+    background-color: #303D4E;
+}
+.starDark {
+    color: #303D4E !important;
+}

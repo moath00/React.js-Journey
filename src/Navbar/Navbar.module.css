@@ -1,0 +1,14 @@
+.night {
+    background-color: #303D4E !important;
+    font-family: 'Montserrat', sans-serif;
+}
+.twhite {
+    color: #fff !important;
+}
+.whiteWithHover {
+    color:#fff !important;
+    transition: 0.25s color !important;
+}
+.whiteWithHover:hover {
+    color: #1abc9c !important;
+}

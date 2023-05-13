@@ -1,0 +1,16 @@
+.head {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    color: #303D4E;
+}
+.box {
+    background-color: transparent !important;
+}
+.boxFont {
+    color: #6c757d;
+    font-size: 24px;
+}
+.submit {
+    background-color: #1abc9c !important;
+    color: white !important;
+}

@@ -1,0 +1,33 @@
+.head {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bgColor {
+    background-color: #1abc9c;
+}
+.para {
+    width: 65% !important;
+    font-size: 20px !important;
+    font-weight: 600;
+    line-height: 30px;
+    color: white;
+}
+.buttonPadding {
+    padding-bottom: 80px;
+}
+.btn {
+    border-color: white;
+    background-color: transparent;
+    border-style: solid;
+    transition: 0.3s background-color;
+}
+.btn:hover{
+    background-color: white !important;
+}
+.light {
+    color: white;
+    transition: 0.3s color;
+}
+.btn:hover .light {
+    color: black;
+}
